@@ -20,26 +20,18 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 | Component        | Model                                              |
 | ---------------- | ---------------------------------------------------|
-| CPU              | AMD Ryzen 5 3600                                   |
-| MotherBoard      | Gigabyte B450 Aorus Elite                          |
-| Wifi/Bluetooth   | Asus AX3000 Dual Band PCI-E WiFi 6 / Bluetooth 5.0 |
-| OS Disk          | Gigabyte NVME GP-GSM2NE3256GNTD 256gb              |
+| CPU              | AMD Ryzen 5 5600                                   |
+| MotherBoard      | MSI X570 A PRO                                     |
+| OS Disk          | Samsung 860                                        |
 | RAM              | 4x 8gb Corsair Vengeance Pro 32GB Ram              |
-| GPU              | AMD Radeon RX570 4gb                               |
-| Cooler    	   | Arctic Freezer A35 A-RGB          		            |
+| GPU              | AMD Radeon RX580 8gb                               |
 
 ## Working
 
 * iCloud
-* Bluetooth
+* Audio - ALC1220 with alcid=11
 * Ethernet
-* Wifi
 * iServices & drm
-
-## Not Working ( only ones I have tried, there may be more )
-
-* Sleep ( on Monterey )
-* Sidecar
 
 ## Patches, Drivers & Kexts
 
